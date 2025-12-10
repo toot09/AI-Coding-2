@@ -11,6 +11,12 @@
 🚩 Agent 실습 자료 제출 : https://form.jotform.com/252887655095069
 
 ----
-#참고
+# 참고
 
 🚩 Context7 공식페이지 : https://context7.com/
+
+🚩 Context7 SSL 우회
+      "env": {
+				"CONTEXT7_API_KEY": "발급 API",
+				"NODE_TLS_REJECT_UNAUTHORIZED": "0"
+			},
