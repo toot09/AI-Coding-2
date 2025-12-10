@@ -16,7 +16,8 @@
 🚩 Context7 공식페이지 : https://context7.com/
 
 🚩 Context7 SSL 우회
-      "env": {
+		
+		"env": {
 				"CONTEXT7_API_KEY": "발급 API",
 				"NODE_TLS_REJECT_UNAUTHORIZED": "0"
 			},
